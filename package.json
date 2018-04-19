@@ -1,0 +1,15 @@
+{
+  "name": "@schwingbat/type-tools",
+  "version": "1.0.0",
+  "description": "A set of JS utils that can be run as standalone functions or monkey patched",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Tony McCoy <tony@ratwizard.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}

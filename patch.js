@@ -1,0 +1,5 @@
+require('./array/patch')
+require('./math/patch')
+require('./number/patch')
+require('./object/patch')
+require('./string/patch')

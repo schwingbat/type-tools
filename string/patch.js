@@ -1,0 +1,7 @@
+require('./first/patch')
+require('./last/patch')
+require('./forEach/patch')
+require('./toCamelCase/patch')
+require('./toKebabCase/patch')
+require('./toSnakeCase/patch')
+require('./toTitleCase/patch')
